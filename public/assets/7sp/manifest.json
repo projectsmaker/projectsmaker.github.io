@@ -1,0 +1,31 @@
+{
+  "short_name": "7 Spins",
+  "name": "7Spins",
+  "icons": [
+    {
+      "src": "/public/assets/7sp/images/7sp-144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/public/assets/7sp/images/7sp-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/public/assets/7sp/images/7sp-256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/public/assets/7sp/images/7sp-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?aths=true",
+  "background_color": "#14171d",
+  "display": "standalone",
+  "theme_color": "#14171d",
+  "gcm_sender_id": "739570062861"
+}
